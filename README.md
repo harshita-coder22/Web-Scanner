@@ -79,7 +79,18 @@ Screenshots and documentation are provided to demonstrate functionality.
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111152.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111207.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111221.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111233.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111244.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111257.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111312.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111343.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111404.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111430.png)
+![Alt Text](https://github.com/harshita-coder22/Web-Scanner/blob/df0603730f6380da956022e1549ab61b46929b43/Web%20scanner/Screenshot%202026-04-07%20111444.png)
+
 
 * Scanner Interface
 * Terminal Execution
